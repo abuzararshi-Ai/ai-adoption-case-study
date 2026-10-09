@@ -51,7 +51,7 @@ Azure AI Document Intelligence, Google Sheets, HubSpot and Google Chat.
 
 ## Related project
 
-[AI Adoption Template Kit](https://github.com/abuzararshi-Ai/ai-adoption-template-kit): the templates and stage guides behind this case, ready to reuse.
+[AI Adoption Template Kit](https://github.com/abuzararshi-Ai/enterprise-ai-adoption-template-kit): the templates and stage guides behind this case, ready to reuse.
 
 ## Reference
 
