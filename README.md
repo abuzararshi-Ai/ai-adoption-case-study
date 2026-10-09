@@ -16,7 +16,11 @@ A case study in using AI document extraction to cut contract administration, imp
 
 ## What the case study covers
 
-It opens with McKinsey's three horizons of AI transformation (enablement, automation, reinvention) to show where this case sits and why it is a starting point, then follows the work stage by stage:
+It opens with McKinsey's three horizons of AI transformation (enablement, automation, reinvention) to show where this case sits and why it is a starting point.
+
+![Share of leaders reporting enterprise value by AI horizon, with this case in the automation horizon](images/horizons.png)
+
+It then follows the work stage by stage:
 
 1. **Align:** objective, sponsorship and scope
 2. **Discover:** how the existing workflow and its pain points were understood
@@ -44,6 +48,10 @@ Both handling times (about 60 minutes before, about 5 minutes now) are team esti
 ## Tools in the case
 
 Azure AI Document Intelligence, Google Sheets, HubSpot and Google Chat.
+
+## Related project
+
+[AI Adoption Template Kit](https://github.com/abuzararshi-Ai/ai-adoption-template-kit): the templates and stage guides behind this case, ready to reuse.
 
 ## Reference
 
